@@ -10,7 +10,7 @@ An ATM machine for Canadian coins
 
 ![PTM Machine](https://user-images.githubusercontent.com/64754081/139561696-cdc2557a-8b4a-4226-abd2-1d56aaa1f35a.png)
 
-## Contactless
+## ∞ Glove 
 A project that mapped the movements of my finger towards a servo-motor. 
 
 ![firstGlovePrototype](https://user-images.githubusercontent.com/64754081/139561760-086012ba-8fc9-4c16-9c39-9a81a65b8b8d.JPG)
